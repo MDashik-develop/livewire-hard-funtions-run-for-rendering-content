@@ -1,0 +1,1 @@
+# livewire-hard-funtions-run-for-rendering-content
